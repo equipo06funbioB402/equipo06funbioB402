@@ -54,7 +54,7 @@
     "uniqCompNum": 178,
     "versionPublish": "5.4.1",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "Acta_N°1.html": {
