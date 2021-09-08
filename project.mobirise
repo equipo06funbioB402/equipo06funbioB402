@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-29_1854",
-    "currentPage": "index.html",
+    "currentPage": "contexto_económico.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -54,7 +54,7 @@
     "uniqCompNum": 181,
     "versionPublish": "5.4.1",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "Acta_N°1.html": {
