@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-29_1854",
-    "currentPage": "index.html",
+    "currentPage": "Entregable_N°2.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -54,7 +54,7 @@
     "uniqCompNum": 206,
     "versionPublish": "5.4.1",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "Acta_N°1.html": {
@@ -4869,7 +4869,7 @@
           },
           "_name": "content6",
           "_sourceTheme": "mobirise5",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content6\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        \n        <input type=\"color\" name=\"lineColor\" title=\"Color\" value=\"#000000\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <hr class=\"line\">\n                <p class=\"mbr-text align-center mbr-fonts-style my-4\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\">Luego de observar y analizar los contextos social, económico y sanitario; decidimos enfocar nuestro proyecto hacia las complicaciones que los pacientes pueden llegar a tener al momento de llevar sus tratamientos, la disponibilidad y asequibilidad de los medicamentos hasta la dificultad que presenta para ciertos sectores de la población llegar a un centro de salud, por ello nos enfocaremos en la facilidad de el monitoreo y el control diario que debe tener un paciente con fibrosis quística.</p>\n                <hr class=\"line\">\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content6\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        \n        <input type=\"color\" name=\"lineColor\" title=\"Color\" value=\"#000000\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <hr class=\"line\">\n                <p class=\"mbr-text align-center mbr-fonts-style my-4\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\">Luego de observar y analizar los contextos social, económico y sanitario; teniendo en cuenta la mayor tasa de incidencia que posee la fibrosis quística en zonas caucásicas, así como los altos costos de tratamiento, el cual no llega a curar la enfermedad; decidimos enfocar nuestro problema en mejorar la calidad de vida que tiene el paciente al ser afectado, más específicamente, por las secreciones generadas por su cuerpo debido a una mutación en las células productoras de: moco, sudor y jugos digestivos, produciendo que dichas secreciones, al contrario de ser utilizadas como lubricantes, taponan conductos, especialmente en los pulmones e hígado.</p>\n                <hr class=\"line\">\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "sIo2PxN7mH",
           "_anchor": "content6-3j",
           "_protectedParams": [],
