@@ -53,7 +53,7 @@
     "gdpr": false,
     "uniqCompNum": 253,
     "versionPublish": "5.4.1",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "screenshot": "screenshot.png"
   },
   "pages": {
