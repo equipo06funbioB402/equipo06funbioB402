@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-29_1854",
-    "currentPage": "entregables_hitos.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -53,7 +53,7 @@
     "gdpr": false,
     "uniqCompNum": 274,
     "versionPublish": "5.4.1",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "screenshot": "screenshot.png"
   },
   "pages": {
